@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate final-year student specializing in Machine Learning & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini-singh18&label=Profile%20views&color=0e75b6&style=flat" alt="nandini-singh18" /> </p>
 
@@ -7,9 +7,11 @@
 
 - 📝 I regularly write articles on [https://raidonnews.com/](https://raidonnews.com/)
 
+- Ask me about **Python, C++, Java**
+
 - 📫 How to reach me **nandini898singh@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **"I turn deep learning code into memes and models that make sense!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
